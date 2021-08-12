@@ -1,10 +1,12 @@
 # Diamonds-price-analysis
 
-This analysis is intented to give the answer what factors affect the price of diamonds.
+This analysis is intented to give the answer what factors affect the price of diamonds the most.
 
 ## Motivation
 
-In this study the exploratory analysis (EDA) with visualizations of diamond specifications of 56000 diamonds dataset as well as a different ML algorithms, such as XGBoost Classifier, Logistic Regression, KNN, Gaussian Naive Bayes, SVM, Decision Tree and Random Forest have been performed to make a relevant predictions.
+In this study the exploratory analysis (EDA) with visualizations of diamond specifications of 56000 diamonds have been performed to make a relevant predictions.
+In main we have used different linear regression models with strong accent on the common ones like (Ridge, Lasso, ElasticNet), Random Forest, Gradient Descent and XGBoost models to resolve our issue.
+
 
 #### The project is created with Python libraries:
 
