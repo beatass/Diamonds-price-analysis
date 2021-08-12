@@ -5,7 +5,7 @@ This analysis is intented to give the answer what factors affect the price of di
 ## Motivation
 
 In this study the exploratory analysis (EDA) with visualizations of diamond specifications of 56000 diamonds have been performed to make a relevant predictions.
-In main we have used different linear regression models with strong accent on the common ones like (Ridge, Lasso, ElasticNet), Random Forest, Gradient Descent and XGBoost models to resolve our issue.
+In main we have used different linear regression models with strong accent on the common ones like Ridge, Lasso, ElasticNet, Random Forest, Gradient Descent and XGBoost models to resolve our issue.
 
 
 #### The project is created with Python libraries:
