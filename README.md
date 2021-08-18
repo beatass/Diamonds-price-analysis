@@ -1,11 +1,11 @@
-# Diamonds-price-analysis
+# Diamonds price analysis
 
 This analysis is intented to give the answer what factors affect the price of diamonds the most.
 
 ## Motivation
 
 In this study the exploratory analysis (EDA) with visualizations of diamond specifications of 56000 diamonds have been performed to make a relevant predictions.
-In main we have used different linear regression models with strong accent on the common ones like Ridge, Lasso, ElasticNet, Random Forest, Gradient Descent and XGBoost models to resolve our issue.
+In main we have used different linear regression models with strong accent on the common ones like Ridge, Lasso, ElasticNet and other ones like Random Forest, Gradient Descent and XGBoost models to resolve our issue.
 
 
 #### The project is created with Python libraries:
@@ -14,8 +14,7 @@ In main we have used different linear regression models with strong accent on th
 
 ### Recap
 
-
-
+In this project we used several linear regression algorithms for diamonds price prediction. We used the common linear regression models like Ridge, Lasso, ElasticNet and other like Random Forest, Gradient Descsent and XGBoosts. Our the best model turned out to be a Random Forest one. We achived the smallest RMSE (605,57) and the highest R-Squared (0.97). We also used GridSearch to find the best hyperparameters of Random Forest model and to check if that result can be improved. By virtue of the GridSearch method we did not manage to improve the result since we got slightly worse one - the RMSE (790,41) and the R-Squared (0.96). Additionally the most significance variable in our analysis is "volume".
 
 
 
