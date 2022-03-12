@@ -1,11 +1,11 @@
 # Diamonds price analysis
 
-This analysis is intented to give the answer what factors affect the price of diamonds the most.
+This analysis is intented to give the answer **what factors affect the price of diamonds the most**.
 
 ## Motivation
 
 In this study the exploratory analysis (EDA) with visualizations of diamond specifications of 56000 diamonds have been performed to make a relevant predictions.
-In main we have used different linear regression models with strong accent on the common ones like Ridge, Lasso, ElasticNet and other ones like Random Forest, Gradient Descent and XGBoost to resolve our issue.
+In main we have used different **linear regression models** with strong accent on the common ones like **Ridge, Lasso, ElasticNet** and other ones like **Random Forest, Gradient Descent and XGBoost** to resolve our issue.
 
 
 #### The project is created with Python libraries:
@@ -14,7 +14,7 @@ In main we have used different linear regression models with strong accent on th
 
 ### Recap
 
-In this project we used several linear regression algorithms for diamonds price prediction. We used the common linear regression models like Ridge, Lasso, ElasticNet and other like Random Forest, Gradient Descsent and XGBoosts. Our the best model turned out to be a Random Forest one. We achived the smallest RMSE (605,57) and the highest R-Squared (0.97). We also used GridSearch to find the best hyperparameters of Random Forest model and to check if that result can be improved. By virtue of the GridSearch method we did not manage to improve the result since we got slightly worse one - the RMSE (790,41) and the R-Squared (0.96). Additionally the most significance variable in our analysis is "volume".
+In this project we used several linear regression algorithms for diamonds price prediction. We used the common linear regression models like **Ridge, Lasso, ElasticNet** and other like **Random Forest, Gradient Descsent and XGBoosts**. Our the **best model** turned out to be a **Random Forest one**. We achived **the smallest RMSE (605,57)** and **the highest R-Squared (0.97)**. We also used **GridSearch** to find the **best hyperparameters of Random Forest model** and to check if that result can be improved. By virtue of the GridSearch method we did not manage to improve the result since we got slightly worse one - **he RMSE (790,41)** and the **R-Squared (0.96)**. Additionally **the most significance variable** in our analysis is **"volume"**.
 
 Model | R-Squared | RMSE
 ------------ | ------------- | -------------
@@ -44,15 +44,15 @@ The dataset can be found at Kaggle (https://www.kaggle.com/shivam2503/diamonds) 
 
 The dataset consists of the following features:
 
-- price - given in US dollars ($326--$18,823);
-- carat - weight of the diamond (0.2--5.01);
-- cut - quality of the cut (Fair, Good, Very Good, Premium, Ideal);
-- color - diamond colour, from J (worst) to D (best);
-- clarity - a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best));
-- x - length in mm (0--10.74);
-- y - width in mm (0--58.9);
-- z - depth in mm (0--31.8);
-- depth - total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79);
-- table - width of top of diamond relative to widest point (43--95).
+- **price** - given in US dollars ($326--$18,823);
+- **carat** - weight of the diamond (0.2--5.01);
+- **cut** - quality of the cut (Fair, Good, Very Good, Premium, Ideal);
+- **color** - diamond colour, from J (worst) to D (best);
+- **clarity** - a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best));
+- **x** - length in mm (0--10.74);
+- **y** - width in mm (0--58.9);
+- **z** - depth in mm (0--31.8);
+- **depth** - total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79);
+- **table** - width of top of diamond relative to widest point (43--95).
 
 
