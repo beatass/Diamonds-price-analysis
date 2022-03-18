@@ -4,7 +4,7 @@ This analysis is intented to give the answer **what factors affect the price of 
 
 ## Motivation
 
-In this study the exploratory analysis (EDA) with visualizations of diamond specifications of 56000 diamonds have been performed to make a relevant predictions.
+In this study the exploratory analysis (EDA) with visualizations of diamond specifications of **56000 diamonds** have been performed to make a relevant predictions.
 In main we have used different **linear regression models** with strong accent on the common ones like **Ridge, Lasso, ElasticNet** and other ones like **Random Forest, Gradient Descent and XGBoost** to resolve our issue.
 
 
@@ -14,7 +14,7 @@ In main we have used different **linear regression models** with strong accent o
 
 ### Recap
 
-In this project we used several linear regression algorithms for diamonds price prediction. We used the common linear regression models like **Ridge, Lasso, ElasticNet** and other like **Random Forest, Gradient Descsent and XGBoosts**. Our the **best model** turned out to be a **Random Forest one**. We achived **the smallest RMSE (605,57)** and **the highest R-Squared (0.97)**. We also used **GridSearch** to find the **best hyperparameters of Random Forest model** and to check if that result can be improved. By virtue of the GridSearch method we did not manage to improve the result since we got slightly worse one - **he RMSE (790,41)** and the **R-Squared (0.96)**. Additionally **the most significance variable** in our analysis is **"volume"**.
+In this project we have used several linear regression algorithms for diamonds price prediction. We used the common linear regression models like **Ridge, Lasso, ElasticNet** and others like **Random Forest, Gradient Descsent and XGBoosts**. The **best model** turned out to be a **Random Forest one**. We achived **the smallest RMSE (605,57)** and **the highest R-Squared (0.97)**. We have also used **GridSearch** to find the **best hyperparameters of Random Forest model** and to check if that result can be improved. By virtue of the GridSearch method we did not manage to improve the result since we got slightly worse one - the **RMSE (790,41)** and the **R-Squared (0.96)**. Additionally **the most significance variable** in our analysis is **"volume"**.
 
 Model | R-Squared | RMSE
 ------------ | ------------- | -------------
@@ -34,11 +34,11 @@ Lasso Regression | 0.90 | 1218.24
 
 ## Files in this repository
 
-1. The diamonds.ipynb file contains all the codes, plots and relevant descriptions of conducted analysis.
+1. The **diamonds.ipynb** file contains all the codes, plots and relevant descriptions of conducted analysis.
 
 ## The dataset origin
 
-The dataset can be found at Kaggle (https://www.kaggle.com/shivam2503/diamonds) and contains data about diamond specifications of 56000 diamonds which have been widely used for analysis.
+The dataset can be found at Kaggle (https://www.kaggle.com/shivam2503/diamonds) and contains data about diamond specifications of **56000 diamonds** which have been widely used for analysis.
 
 ## Relevant information
 
