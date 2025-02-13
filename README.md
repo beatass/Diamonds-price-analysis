@@ -14,7 +14,7 @@ In main I have used different **linear regression models** with strong accent on
 
 ### Recap
 
-In this project I have used several linear regression algorithms for diamonds price prediction, mainly the common ones like **Ridge, Lasso, ElasticNet** and others like **Random Forest, Gradient Descsent and XGBoosts**. The **best model** turned out to be a **Random Forest one**. I achieved **the smallest RMSE (605,57)** and **the highest R-Squared (0.97)**. I have also used **GridSearch** to find the **best hyperparameters of Random Forest model** and to check if that result can be improved. By virtue of the GridSearch method I did not manage to improve the result since I got slightly worse one - the **RMSE (790,41)** and the **R-Squared (0.96)**. Additionally **the most significance variable** in my analysis is **"volume"**.
+In this project I have used several linear regression algorithms for diamonds price prediction, mainly the most popular ones like **Ridge, Lasso, ElasticNet** and other ones like **Random Forest, Gradient Descsent and XGBoosts**. The **best model** turned out to be a **Random Forest one**. I achieved **the smallest RMSE (605,57)** and **the highest R-Squared (0.97)**. I have also used **GridSearch** to find the **best hyperparameters of Random Forest model** and to check if that result can be improved. By virtue of the GridSearch method I did not manage to improve the result since I got slightly worse one - the **RMSE (790,41)** and the **R-Squared (0.96)**. Additionally **the most significance variable** in my analysis is **"volume"**.
 
 Model | R-Squared | RMSE
 ------------ | ------------- | -------------
