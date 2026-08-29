@@ -8,7 +8,7 @@ In this study the exploratory data analysis (**EDA**) with visualizations of dia
 I have used different **linear regression models** with strong accent on the common ones like **Ridge, Lasso, ElasticNet** and other ones like **Random Forest, Gradient Descent and XGBoost** to resolve the issue.
 
 
-#### The project is created with Python libraries:
+#### The project was created with Python libraries:
 
  -  scikit-learn/pandas/numpy.
 
@@ -30,7 +30,7 @@ Lasso Regression | 0.90 | 1218.24
 
 #### Running the project:
 
-* To run this project use Jupyter Notebook or Google Colab.
+* To run this project one can use Jupyter Notebook or Google Colab.
 
 ## Files in this repository
 
