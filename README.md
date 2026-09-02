@@ -1,6 +1,6 @@
 # Diamonds price analysis
 
-The analysis is intented to give the answer **what factors affect the price of diamonds the most** with different linear regression models.
+The analysis is intented to give the answer **what factors affect the price of diamonds the most** by using different **linear regression models**.
 
 ## Motivation
 
