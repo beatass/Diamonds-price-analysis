@@ -32,7 +32,7 @@ Lasso Regression | 0.90 | 1218.24
 
 * To run this project one can use Jupyter Notebook or Google Colab.
 
-## Files in this repository
+## Files in this repository:
 
 1. The **diamonds.ipynb** file contains all the codes, plots and relevant descriptions of conducted analysis.
 
