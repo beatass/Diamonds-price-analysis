@@ -30,7 +30,7 @@ Lasso Regression | 0.90 | 1218.24
 
 #### Running the project:
 
-* To run this project one can use Jupyter Notebook or Google Colab. 
+* To run this project one can use **Jupyter Notebook or Google Colab**. 
 
 ## Files in this repository: 
 
