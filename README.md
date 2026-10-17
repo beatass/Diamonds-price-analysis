@@ -4,7 +4,7 @@ The analysis is intented to give the answer what **factors** affect the **price 
 
 ## Motivation
 
-In this study the exploratory data analysis (**EDA**) with visualizations of diamond specifications of **56000 diamonds** have been performed to make a relevant predictions.
+In this study the **exploratory data analysis (EDA)** with visualizations of diamond specifications of **56000 diamonds** have been performed to make a relevant predictions.
 I have used different **linear regression models** with strong accent on the common ones like **Ridge, Lasso, ElasticNet** and other ones like **Random Forest, Gradient Descent and XGBoost** to resolve the issue.
 
 
