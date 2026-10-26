@@ -42,7 +42,7 @@ The dataset can be found at Kaggle (https://www.kaggle.com/shivam2503/diamonds) 
 
 ## Relevant information
 
-The dataset consists of the following features:
+The **dataset** consists of the following features:
 
 - **price** - given in US dollars ($326--$18,823);
 - **carat** - weight of the diamond (0.2--5.01);
