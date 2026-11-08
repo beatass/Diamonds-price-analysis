@@ -2,13 +2,13 @@
 
 The analysis is intented to give the answer what **factors** affect the **price of diamonds the most** using different **linear regression models**.
 
-## Motivation
+## Motivation 
 
 In this study the **exploratory data analysis (EDA)** with visualizations of diamond specifications of **56000 diamonds** have been performed to make a relevant predictions.
 I have used different **linear regression models** with strong accent on the common ones like **Ridge, Lasso, ElasticNet** and other ones like **Random Forest, Gradient Descent and XGBoost** to resolve the issue.
 
 
-#### The project was created with Python libraries:
+#### The project was created with Python libraries: 
 
  -  scikit-learn/pandas/numpy.
 
@@ -38,7 +38,7 @@ Lasso Regression | 0.90 | 1218.24
 
 ## The dataset origin
 
-The dataset can be found at Kaggle (https://www.kaggle.com/shivam2503/diamonds) and contains data about diamond specifications of **56000 diamonds** which have been widely used for analysis.
+The dataset can be found at **Kaggle** (https://www.kaggle.com/shivam2503/diamonds) and contains data about diamond specifications of **56000 diamonds** which have been widely used for analysis.
 
 ## Relevant information
 
